@@ -1,6 +1,6 @@
 # roundcube-hide-show-passowrd
 
-Plugin for adding hide/show password on the password field. This also changes the placeholder in the username field to username/email address. Remove if unnecessary.
+Plugin for adding hide/show password on the password field in the login page. This also changes the placeholder in the username field to username/email address. Remove if unnecessary.
 
 Installation:
 1. Download as zip
