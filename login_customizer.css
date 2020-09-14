@@ -1,0 +1,10 @@
+.input-group .icon.eye:before{
+	content:"\f06e";
+}
+.input-group .icon.eye-slash:before{
+	content:"\f070";
+}
+
+.input-group .icon.eye, .input-group .icon.eye-slash{
+	cursor: pointer;
+}
